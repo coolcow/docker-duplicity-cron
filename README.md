@@ -1,13 +1,13 @@
-# Deprecated
+# ⚠️ DEPRECATED
 
-This repository is archived and kept only for historical discoverability.
+This repository is archived and kept for historical reference only.
 
-## Do not use for new deployments
+## Do Not Use for New Deployments
 
-Deprecated image: `ghcr.io/coolcow/duplicity-cron` (formerly `farmcoolcow/duplicity-cron`)
+Deprecated image:
 
-## Use this instead
+`ghcr.io/coolcow/duplicity-cron` (formerly `farmcoolcow/duplicity-cron`)
 
-=> `ghcr.io/coolcow/duplicity:1.1.0` (or above)
+## Recommended Replacement
 
-Github repository: [coolcow/docker-duplicity](https://github.com/coolcow/docker-duplicity)
+`ghcr.io/coolcow/duplicity` (GitHub repository: [coolcow/docker-duplicity](https://github.com/coolcow/docker-duplicity))
